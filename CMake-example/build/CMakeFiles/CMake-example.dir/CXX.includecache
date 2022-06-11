@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hung/DATA/Github/casadi_matlab_v3.4.5/Hungrepo/C_plusplus/CMake-example/main.cpp
+iostream
+-
+
